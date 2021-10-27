@@ -30,6 +30,10 @@ const about = () => {
                     <p className="a-award-desc">JavaScript</p>
                     <p className="a-award-desc">React</p>
                     <p className="a-award-desc">NodeJs</p>
+                    <p className="a-award-desc">Git</p>
+                    <p className="a-award-desc">MySQL</p>
+                    <p className="a-award-desc">MongoDB</p>
+
                     
                 </div>
             </div>
