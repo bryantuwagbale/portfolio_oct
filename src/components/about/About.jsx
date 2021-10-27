@@ -15,25 +15,22 @@ const about = () => {
             <div className="a-right">
             <h1 className="a-title">About Me</h1>
             <p className="a-sub">
-                Lorem Ipsum
+                Bringing a New Perspective
             </p>
             <p className="a-desc">
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi cumque quibusdam perspiciatis expedita, porro, vero suscipit 
-                incidunt earum inventore deserunt, in quisquam? Dicta repellendus, 
-                atque minima numquam inventore quam modi.
+                I leverage my background in creative media with my skills as a web developer to build engaing applications. <br />
+                
             </p>
             <div className="a-award">
                 <img src={Award} alt="" className="a-award-img" />
                 <div className="a-award-texts">
                     <h4 className="a-award-title">Full Stack Web Developer</h4>
-                    <p className="a-award-desc">
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-                        Debitis vero 
-                        magnam asperiores doloremque et distinctio. 
-                        Quasi architecto, a voluptas 
-                        quas dicta omnis maiores 
-                        officia eveniet sapiente error quaerat. Quos, enim.
-                    </p>
+                    <p className="a-award-desc">HTML</p>
+                    <p className="a-award-desc">CSS</p>
+                    <p className="a-award-desc">JavaScript</p>
+                    <p className="a-award-desc">React</p>
+                    <p className="a-award-desc">NodeJs</p>
+                    
                 </div>
             </div>
             </div>

@@ -7,9 +7,7 @@ const ProductList = () => {
         <div className="pl">
             <div className="pl-texts">
                 <h1 className="pl-title">My Projects</h1>
-                <p className="pl-desc">
-                    blah blah blah
-                </p>
+                <p className="pl-desc"></p>
             </div>
             <div className="pl-list">
                 {products.map((item) => (
